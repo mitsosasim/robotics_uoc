@@ -1,0 +1,22 @@
+{
+  "environment": "Python / NumPy synthetic replay; no ROS or Gazebo",
+  "seed": 7,
+  "assignments": {
+    "1": {
+      "gps_rmse_m": 0.40580938733106814,
+      "estimate_rmse_m": 0.049109475594145226,
+      "dead_reckoning_rmse_m": 0.08933223731953777
+    },
+    "2": {
+      "gps_rmse_m": 0.33110249809121056,
+      "estimate_rmse_m": 0.06261311955241539,
+      "dead_reckoning_rmse_m": 0.11729521466338427
+    },
+    "3": {
+      "particles": 12000,
+      "initial_error_m": 4.35322616743148,
+      "final_error_m": 0.04544399032854428,
+      "last_100_rmse_m": 0.19510197801546658
+    }
+  }
+}
