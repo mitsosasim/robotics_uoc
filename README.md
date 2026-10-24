@@ -43,4 +43,4 @@ The screenshots below come from this running viewer and actual Python filter out
 
 *12,000 particles on the supplied 8 × 15 m assignment grid. Final position error is 0.045 m in this 35.4 s replay. [Map model and resampling →](assignments/03_particle_filter)*
 
-These are reconstructed implementations of the course exercises, developed with AI coding assistance, rather than recovered original submissions. The sensor simulators, launch/RViz configurations, and drone world come from the CS-475 assignment materials by Michael Maravgakis. Their existing package metadata is retained. Results above describe the fixed synthetic scenarios, not physical-robot performance.
+Unfortunately the original assignment implementations along with SLAM and path planning implementations were lost to the chronicle of time so these are reconstructed implementations of the course exercises, developed with AI coding assistance. The sensor simulators, launch/RViz configurations, and drone world come from the CS-475 assignment materials by Michael Maravgakis. Their existing package metadata is retained. Results above describe the fixed synthetic scenarios, not physical-robot performance.
